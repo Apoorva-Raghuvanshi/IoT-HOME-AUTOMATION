@@ -5,15 +5,15 @@ Home automation gives you access to control devices in your home from a laptop, 
 A home automation system will monitor or control home attributes such as lighting, climate, entertainment systems and appliances. It may also include home security such as access control and alarm systems
 
 # COMPONENTS USED:
-1.One Arduino Uno
-2.Two diodes
-3.Two resistance of 1K ohm 
-4.Two transistors 
-5.One lamp
-6.One fan
-7.Two relay
-8.One alternator
-9.One virtual terminal
+1. One Arduino Uno
+2. Two diodes
+3. Two resistance of 1K ohm 
+4. Two transistors 
+5. One lamp
+6. One fan
+7. Two relay
+8. One alternator
+9. One virtual terminal
 
 # WORKING (SIMULATION BY USING PROTEUS 8 PROFESSIONAL):
 
