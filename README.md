@@ -19,12 +19,12 @@ A home automation system will monitor or control home attributes such as lightin
 
 https://github.com/Apoorva-Raghuvanshi/IoT-HOME-AUTOMATION/assets/139733701/d08bb5c6-473b-47c4-b570-5ba3f101238b
 
-1.On pressing 1 on the virtual terminal , the light will turn ON
-2.On pressing 2 on the virtual terminal , the light will turn OFF
-3.On pressing 3 on the virtual terminal , the fan will turn ON
-4.On pressing 4 on the virtual terminal , the fan will turn OFF
-5.On pressing 5 on the virtual terminal , both light and fan will turn ON
-6.On pressing 6 on the virtual terminal , both light and fan will turn OFF
+1. On pressing 1 on the virtual terminal , the light will turn ON
+2. On pressing 2 on the virtual terminal , the light will turn OFF
+3. On pressing 3 on the virtual terminal , the fan will turn ON
+4. On pressing 4 on the virtual terminal , the fan will turn OFF
+5. On pressing 5 on the virtual terminal , both light and fan will turn ON
+6. On pressing 6 on the virtual terminal , both light and fan will turn OFF
 
 # CIRCUIT DIAGRAM:
 
